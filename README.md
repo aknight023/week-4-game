@@ -1,5 +1,5 @@
 # week-4-game-Crystal-Collector
-Crystal-Collector Game
+### Crystal-Collector Game
 You will be given a random number at the start of the game.
 There are four crystal below. By chicking on a crystal you will add a specific amount of points to you total score.
 You win the game by matching your total score to random number, you lose the game if your total score goes above the random number.
