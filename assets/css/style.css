@@ -1,0 +1,60 @@
+
+html {
+max-width: 750px;
+margin: 0 auto;
+}
+
+
+body {
+	background-image: url(../images/backgroundimg.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 150%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+
+	text-align: center;
+	font-size: 28px; 
+	font-weight: 400; 	
+	
+}
+h2 {
+	font-size: 20px; 
+	font-weight: 500;	
+}
+
+
+div {
+	background-color: darkkhaki;
+	margin: 10px;
+	border: 3px solid #4CAF50;
+	padding: 15px;
+}
+.clearfix {    
+    clear: both;
+    display: block;
+}
+.randomNum, .winlose {
+	float: left;
+
+}
+.randomNum, .total {
+	font-size: 20px; 
+	font-weight: 500;	
+}
+.gemImg {
+	height: 150px;
+	width: 100px;
+	margin: 5px;
+}
+
+.totalHeader, .total {
+	width: 200px;
+	background-color:  darkgray;
+
+}
