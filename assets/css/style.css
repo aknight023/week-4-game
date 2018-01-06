@@ -35,6 +35,11 @@ div {
 	border: 3px solid #4CAF50;
 	padding: 15px;
 }
+
+ul {
+	list-style-type:none;
+}
+
 .clearfix {    
     clear: both;
     display: block;
