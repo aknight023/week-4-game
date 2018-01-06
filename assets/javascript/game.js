@@ -23,7 +23,7 @@ $(document).ready(function() {
 	    gemNum2 = Math.floor(Math.random() * ((12-1)+1) + 1);
 	   	gemNum3 = Math.floor(Math.random() * ((12-1)+1) + 1);
 	   	gemNum4 = Math.floor(Math.random() * ((12-1)+1) + 1);
-	   	$('.total').text(userGuessTotal); 
+	   	$('.total').html(userGuessTotal); 
 	   	$(".randomNum").html(randomNum);
 	};
 	
